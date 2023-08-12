@@ -1,0 +1,5 @@
+{
+  "block.barteringstation.bartering_station": "물물교환소",
+  "container.barteringstation.bartering_station": "물물교환소",
+  "gui.barteringstation.bartering_station.piglins": "물물교환을 위해 근처에서 피글린 %s 마리를 발견했습니다."
+}
